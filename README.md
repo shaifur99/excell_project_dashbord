@@ -24,7 +24,8 @@ This project presents a simple yet effective Excel dashboard built using the `ro
 3. Explore the dashboard sheet and interact with filters
 
 ## 📸 Screenshot
-(Insert dashboard screenshot here)
+view other file 
+
 
 ---
 
