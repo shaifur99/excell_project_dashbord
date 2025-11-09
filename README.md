@@ -4,7 +4,7 @@
 
 This project presents a simple yet effective Excel dashboard built using the `rowdata.xlsx` dataset. It analyzes the sales performance of executives across different regions over 5 days.
 
-## 🔍 Features
+##  Features
 - Total Sales calculation
 - Target vs Achievement (%) analysis
 - Regional performance comparison
