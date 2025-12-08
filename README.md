@@ -24,7 +24,9 @@ This project presents a simple yet effective Excel dashboard built using the `ro
 3. Explore the dashboard sheet and interact with filters
 
 ## Screenshot
- fo project view file
+ fo project view file for hole project
+ <img width="776" height="297" alt="image" src="https://github.com/user-attachments/assets/d68662c1-7adf-4780-9072-bf45b5dfc462" />
+
 
 
 ---
